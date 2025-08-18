@@ -23,6 +23,12 @@ function App() {
       cantada='Gata, você é tipo piolho: não sai da minha cabeça!'
       imagem='/moskitao_2.jpg'
       />
+      <CantadaCard
+      id='3'
+      titulo='Brastemp'
+      cantada='Mina, você é mais linda que uma geladeira Brastemp 2 portas'
+      imagem='/moskitao_kiko.png'
+      />
     </>
   )
 }
