@@ -7,7 +7,7 @@ interface CantadaCardProps {
 
 export function CantadaCard(props: CantadaCardProps) {
     return (
-        <div className="cantada-container">
+        <div className={`card card-${props.id}`}>
 
             <div className="card-text">
                 <h2>{props.titulo}</h2>

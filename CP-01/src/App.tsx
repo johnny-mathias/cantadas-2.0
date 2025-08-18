@@ -8,7 +8,7 @@ function App() {
       <Header
       id='1'
       title='Site de cantadas 2.0'
-      sub='Olá'
+      sub='O Site de cantadas mais quentes de 2023! 😈😈'
       />
 
       <CantadaCard
